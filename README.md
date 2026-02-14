@@ -59,9 +59,9 @@
 
 ### 🌐 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: add-your-link  
-- 🌍 Portfolio: (Add if you have)
+- 📧 Email: varunbhoi7763@gmail.com  
+- 💼 LinkedIn:  
+- 🌍 Portfolio: 
 
 ---
 
