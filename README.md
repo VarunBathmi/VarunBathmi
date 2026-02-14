@@ -36,16 +36,16 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarunBathmi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VarunBathmi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunBathmi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=VarunBathmi&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
